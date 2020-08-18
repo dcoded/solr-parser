@@ -1,5 +1,5 @@
 #### 1. Add the attached jar files for LUCENE-5205 and SOLR-5410 in the following location on all Solr server nodes to guarantee it's in the classpath:
-`/opt/cloudera/parcels/CDH-6.3.1-1.cdh6.3.1.p0.1470567/lib/solr/server/solr-webapp/webapp/WEB-INF/lib`
+`/opt/cloudera/parcels/CDH/lib/solr/server/solr-webapp/webapp/WEB-INF/lib`
 
 #### 2. Restart Solr service
 
